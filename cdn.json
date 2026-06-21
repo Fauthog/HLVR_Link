@@ -1,4 +1,6 @@
 {
     "core": "192.168.2.222/homelabvr/core_ip.json",
-    "manifest": "192.168.2.222/homelabvr/manifest_ip.json"
+    "manifest": "192.168.2.222/homelabvr/manifest_ip.json",
+    "media": "192.168.2.222/homelabvr/media/media_ip.json",
+    "subtitles": "192.168.2.222/homelabvr/subtitles/subtitles_ip.json"
 }
